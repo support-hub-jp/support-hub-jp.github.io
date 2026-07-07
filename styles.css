@@ -115,7 +115,7 @@ h2 {
 }
 
 .policy-hero h1 {
-  font-size: 48px;
+  font-size: 36px;
   line-height: 1;
 }
 
@@ -130,6 +130,14 @@ h2 {
   font-weight: 700;
   letter-spacing: 0.08em;
   text-transform: uppercase;
+}
+
+.section-start {
+  margin-bottom: 32px;
+}
+
+.policy-subtitle {
+  margin: 0 0 16px;
 }
 
 .app-list {
