@@ -122,11 +122,12 @@ h3 {
 }
 
 .apps-page h1 {
-  font-size: 56px;
+  font-size: 40px;
   line-height: 1;
 }
 
-.policy-hero .eyebrow {
+.policy-hero .eyebrow,
+.apps-page .eyebrow {
   font-size: 14px;
   text-transform: none;
 }
