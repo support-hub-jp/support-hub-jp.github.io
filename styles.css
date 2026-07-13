@@ -97,6 +97,10 @@ h3 {
   line-height: 1.65;
 }
 
+.content-single-language > :first-child {
+  margin-top: 0;
+}
+
 .content ul {
   margin: 16px 0 24px;
   padding-left: 22px;
